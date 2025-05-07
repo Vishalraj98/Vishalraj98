@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Wadekar</h1>
 <h3 align="center">A passionate frontend (React JS) and backend (Spring Boot) developer</h3>
 
-- 🔭 I’m currently working on **E- Commerce project**
+- 🔭 **E- Commerce project** [https://electrowebstore-vishalwadekar.netlify.app/]
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vishalwadekar.netlify.app/](https://portfolio-vishalwadekar.netlify.app/)
 
